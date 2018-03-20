@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12928" started-at="2018-03-19T18:48:03Z" finished-at="2018-03-19T18:48:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12928" started-at="2018-03-19T18:48:03Z" finished-at="2018-03-19T18:48:16Z">
+      <class name="Testngparallel.Testclass2">
+        <test-method status="PASS" signature="testCaseOne()[pri:0, instance:Testngparallel.Testclass2@46d56d67]" name="testCaseOne" duration-ms="28" started-at="2018-03-20T00:18:04Z" finished-at="2018-03-20T00:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseOne -->
+        <test-method status="PASS" signature="testCaseTwo()[pri:0, instance:Testngparallel.Testclass2@46d56d67]" name="testCaseTwo" duration-ms="4" started-at="2018-03-20T00:18:04Z" finished-at="2018-03-20T00:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTwo -->
+      </class> <!-- Testngparallel.Testclass2 -->
+      <class name="Testngparallel.Testclass">
+        <test-method status="PASS" signature="testCaseOne()[pri:0, instance:Testngparallel.Testclass@4501b7af]" name="testCaseOne" duration-ms="28" started-at="2018-03-20T00:18:04Z" finished-at="2018-03-20T00:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseOne -->
+        <test-method status="PASS" signature="testCaseTwo()[pri:0, instance:Testngparallel.Testclass@4501b7af]" name="testCaseTwo" duration-ms="20" started-at="2018-03-20T00:18:04Z" finished-at="2018-03-20T00:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTwo -->
+      </class> <!-- Testngparallel.Testclass -->
+      <class name="Testngparallel.login">
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:Testngparallel.login@28d25987]" name="launchurl" duration-ms="12898" started-at="2018-03-20T00:18:04Z" finished-at="2018-03-20T00:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+      </class> <!-- Testngparallel.login -->
+      <class name="Testngparallel.login1">
+        <test-method status="PASS" signature="urllaunch()[pri:0, instance:Testngparallel.login1@523884b2]" name="urllaunch" duration-ms="10464" started-at="2018-03-20T00:18:04Z" finished-at="2018-03-20T00:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+      </class> <!-- Testngparallel.login1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
